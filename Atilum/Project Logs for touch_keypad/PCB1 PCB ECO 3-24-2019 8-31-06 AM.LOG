@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VCC Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Change Component Footprint: Designator=C1 Old Footprint=CP2/4 New Footprint=CP1.5/3.4
+Change Component Comment : Designator=C1 Old Comment=2200uF/16V New Comment=1000uF/16V
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Added Component: Designator=C3(CP1.5/3.4)
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Member To Class: ClassName=Sheet2 Member=Component C1 1000uF/16V
+Added Room: Name=Sheet2

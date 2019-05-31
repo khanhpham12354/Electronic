@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=LCD1 Old Footprint=JP16-C1T New Footprint=LCD16X2N
+Added Pin To Net: NetName=Net*1_28 Pin=*1-28
+Added Room: Name=Sheet2

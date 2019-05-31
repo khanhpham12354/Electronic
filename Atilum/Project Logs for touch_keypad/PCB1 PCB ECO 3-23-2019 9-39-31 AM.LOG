@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=D7 Pin=*1-10
+Added Pin To Net: NetName=D6 Pin=*1-11
+Added Pin To Net: NetName=D5 Pin=*1-12
+Added Pin To Net: NetName=D4 Pin=*1-13
+Added Pin To Net: NetName=EN Pin=*1-14
+Added Pin To Net: NetName=RS Pin=*1-15
+Added Room: Name=Sheet2

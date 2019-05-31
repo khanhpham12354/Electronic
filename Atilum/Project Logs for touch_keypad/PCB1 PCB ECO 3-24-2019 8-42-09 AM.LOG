@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=SERVO Pin=C5-3
+Removed Pin From Net: NetName=SCL Pin=C5-6
+Removed Pin From Net: NetName=SDA Pin=C5-7
+Removed Pin From Net: NetName=VCC Pin=C5-8
+Added Pin To Net: NetName=SERVO Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C5-3
+Added Pin To Net: NetName=VCC Pin=C5-6
+Added Pin To Net: NetName=SCL Pin=C5-7
+Added Pin To Net: NetName=SDA Pin=C5-8
+Added Member To Class: ClassName=Sheet2 Member=Component C3 1000uF/16V
+Added Room: Name=Sheet2

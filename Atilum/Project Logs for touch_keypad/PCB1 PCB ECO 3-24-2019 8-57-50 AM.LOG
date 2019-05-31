@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SERVO Pin=*1-20
+Removed Pin From Net: NetName=Net*1_23 Pin=*1-23
+Removed Pin From Net: NetName=Net*1_23 Pin=JP1-8
+Removed Pin From Net: NetName=SERVO Pin=JP2-3
+Added Pin To Net: NetName=Net*1_23 Pin=*1-20
+Added Pin To Net: NetName=SERVO Pin=*1-23
+Added Pin To Net: NetName=SERVO Pin=JP1-8
+Added Pin To Net: NetName=Net*1_23 Pin=JP2-3
+Change Net Name : Old Net Name=Net*1_23 New Net Name=Net*1_20
+Added Room: Name=Sheet2

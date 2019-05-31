@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=LED_CLOSE Pin=*1-8
+Added Pin To Net: NetName=LED_OPEN Pin=*1-9
+Added Pin To Net: NetName=SERVO Pin=*1-20
+Added Pin To Net: NetName=SERVO Pin=JP2-3
+Added Room: Name=Sheet2
